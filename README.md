@@ -10,6 +10,20 @@ Wi-Fi/router, ISP, DNS, or the web path. It keeps a history, lists outages, expo
 - History in a local SQLite database (raw 48 h, aggregates and events 90 days); nothing leaves your Mac
 - No Location permission, no SSID, not sandboxed
 
+## Screenshots
+
+The first popover is a live network; the others come from demo mode, which plays a scripted outage.
+
+<p>
+  <img src="docs/screenshots/popover-healthy.png" alt="Popover when everything is fine" width="270">
+  <img src="docs/screenshots/popover-degraded.png" alt="Popover when HTTPS is dropping packets" width="270">
+  <img src="docs/screenshots/popover-outage.png" alt="Popover during an ISP outage" width="260">
+</p>
+
+The menu bar shows a coloured glyph, plus the cause when something is wrong. Click it for the layer-by-layer view.
+
+<img src="docs/screenshots/history.png" alt="History window with outage bands, summary and event list" width="560">
+
 ## Layout
 
 | Path | What |
