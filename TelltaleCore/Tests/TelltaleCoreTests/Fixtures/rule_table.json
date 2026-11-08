@@ -1,0 +1,130 @@
+[
+ {
+  "ok": "11111",
+  "cause": null
+ },
+ {
+  "ok": "11110",
+  "cause": "Web path (HTTPS/proxy/VPN/site) - pings OK"
+ },
+ {
+  "ok": "11101",
+  "cause": "DNS"
+ },
+ {
+  "ok": "11100",
+  "cause": "DNS"
+ },
+ {
+  "ok": "11011",
+  "cause": null
+ },
+ {
+  "ok": "11010",
+  "cause": "Web path (HTTPS/proxy/VPN/site) - pings OK"
+ },
+ {
+  "ok": "11001",
+  "cause": "DNS"
+ },
+ {
+  "ok": "11000",
+  "cause": "DNS"
+ },
+ {
+  "ok": "10111",
+  "cause": null
+ },
+ {
+  "ok": "10110",
+  "cause": "Web path (HTTPS/proxy/VPN/site) - pings OK"
+ },
+ {
+  "ok": "10101",
+  "cause": "DNS"
+ },
+ {
+  "ok": "10100",
+  "cause": "DNS"
+ },
+ {
+  "ok": "10011",
+  "cause": "ISP / upstream"
+ },
+ {
+  "ok": "10010",
+  "cause": "ISP / upstream"
+ },
+ {
+  "ok": "10001",
+  "cause": "ISP / upstream"
+ },
+ {
+  "ok": "10000",
+  "cause": "ISP / upstream"
+ },
+ {
+  "ok": "01111",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01110",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01101",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01100",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01011",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01010",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01001",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "01000",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00111",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00110",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00101",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00100",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00011",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00010",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00001",
+  "cause": "Local network (Wi-Fi/router)"
+ },
+ {
+  "ok": "00000",
+  "cause": "Local network (Wi-Fi/router)"
+ }
+]
